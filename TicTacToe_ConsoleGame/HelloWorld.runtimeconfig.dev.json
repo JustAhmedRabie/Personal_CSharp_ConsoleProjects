@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\eizom\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\eizom\\.nuget\\packages"
+    ]
+  }
+}
