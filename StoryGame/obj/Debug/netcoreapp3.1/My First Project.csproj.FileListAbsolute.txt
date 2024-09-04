@@ -1,0 +1,13 @@
+C:\Users\eizom\RiderProjects\My First Project\My First Project\bin\Debug\netcoreapp3.1\My First Project.exe
+C:\Users\eizom\RiderProjects\My First Project\My First Project\bin\Debug\netcoreapp3.1\My First Project.deps.json
+C:\Users\eizom\RiderProjects\My First Project\My First Project\bin\Debug\netcoreapp3.1\My First Project.runtimeconfig.json
+C:\Users\eizom\RiderProjects\My First Project\My First Project\bin\Debug\netcoreapp3.1\My First Project.runtimeconfig.dev.json
+C:\Users\eizom\RiderProjects\My First Project\My First Project\bin\Debug\netcoreapp3.1\My First Project.dll
+C:\Users\eizom\RiderProjects\My First Project\My First Project\bin\Debug\netcoreapp3.1\My First Project.pdb
+C:\Users\eizom\RiderProjects\My First Project\My First Project\obj\Debug\netcoreapp3.1\My First Project.csprojAssemblyReference.cache
+C:\Users\eizom\RiderProjects\My First Project\My First Project\obj\Debug\netcoreapp3.1\My First Project.AssemblyInfoInputs.cache
+C:\Users\eizom\RiderProjects\My First Project\My First Project\obj\Debug\netcoreapp3.1\My First Project.AssemblyInfo.cs
+C:\Users\eizom\RiderProjects\My First Project\My First Project\obj\Debug\netcoreapp3.1\My First Project.csproj.CoreCompileInputs.cache
+C:\Users\eizom\RiderProjects\My First Project\My First Project\obj\Debug\netcoreapp3.1\My First Project.dll
+C:\Users\eizom\RiderProjects\My First Project\My First Project\obj\Debug\netcoreapp3.1\My First Project.pdb
+C:\Users\eizom\RiderProjects\My First Project\My First Project\obj\Debug\netcoreapp3.1\My First Project.genruntimeconfig.cache
